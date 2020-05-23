@@ -12,7 +12,7 @@ namespace selfTest1
 {
     public partial class Form1 : Form
     {
-        //comment
+        //comment2
         public Form1()
         {
             InitializeComponent();
